@@ -1,3 +1,3 @@
 # angular_and_mvc
 
-This is an example that shows how Angular and ASP.NET works together
+This is an example that shows how to use Angular and ASP.NET works together
